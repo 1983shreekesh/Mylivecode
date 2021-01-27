@@ -20,6 +20,10 @@ header{
     border: 1px solid;
     margin: auto; */
 }
-.javascript,.php, .webDev.sysAdmin .experiance .select{
+.javascript,
+.php, 
+.webDev.sysAdmin,
+.experiance,
+.select{
     padding: 10px;
 }
